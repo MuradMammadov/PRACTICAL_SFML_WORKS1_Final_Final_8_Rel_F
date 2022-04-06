@@ -1,0 +1,13 @@
+User manual of mine-race
+
+You are playing against an ai.
+
+The rules of the game are as follows:
+-There is 100 meter tunnel that needs to be mine.
+-You and ai take turns mining using 1 of three offered tools
+-pickaxe will mine 5 meters ahead
+-drill will mine 10 meters ahead
+-thermonuclear bomb will mine 30 meters ahead
+-the one who reaches the end of the tunnel wins(If your last turn mines more than remaining distance it still counts as win)
+
+Initially you choose whether you would like to go 1st or 2nd.(Though if you go 2nd you likely won't win)

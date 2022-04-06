@@ -1,0 +1,457 @@
+100 meters remain.
+Player 1 uses pickaxe. 95 meters remain.
+|Player 2 uses pickaxe. 90 meters remain.
+||Player 1 uses pickaxe. 85 meters remain.
+|||Player 2 uses pickaxe. 80 meters remain.
+||||Player 1 uses pickaxe. 75 meters remain.
+|||||Player 2 uses pickaxe. 70 meters remain.
+||||||Player 1 uses pickaxe. 65 meters remain.
+|||||||Player 2 uses pickaxe. 60 meters remain.
+||||||||Player 1 uses pickaxe. 55 meters remain.
+|||||||||Player 2 uses pickaxe. 50 meters remain.
+||||||||||Player 1 uses pickaxe. 45 meters remain.
+|||||||||||Player 2 uses pickaxe. 40 meters remain.
+||||||||||||Player 1 uses pickaxe. 35 meters remain.
+|||||||||||||Player 2 uses pickaxe. 30 meters remain.
+||||||||||||||Player 1 uses pickaxe. 25 meters remain.
+|||||||||||||||Player 2 uses pickaxe. 20 meters remain.
+||||||||||||||||Player 1 uses pickaxe. 15 meters remain.
+|||||||||||||||||Player 2 uses pickaxe. 10 meters remain.
+||||||||||||||||||Player 1 uses pickaxe. 5 meters remain.
+|||||||||||||||||||Player 2 uses pickaxe. Player 2 wins
+|||||||||||||||||||Player 2 uses drill. Player 2 wins
+|||||||||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||||||||Player 1 uses drill. Player 1 wins
+||||||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||||||Player 2 uses drill. 5 meters remain.
+||||||||||||||||||Player 1 uses pickaxe. Player 1 wins
+||||||||||||||||||Player 1 uses drill. Player 1 wins
+||||||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||||||Player 1 uses drill. 10 meters remain.
+|||||||||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||||||||Player 2 uses drill. Player 2 wins
+|||||||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||||Player 2 uses drill. 15 meters remain.
+||||||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||||||Player 1 uses drill. 5 meters remain.
+|||||||||||||||||Player 2 uses pickaxe. Player 2 wins
+|||||||||||||||||Player 2 uses drill. Player 2 wins
+|||||||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||||Player 1 uses drill. 20 meters remain.
+|||||||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||||||Player 2 uses drill. 10 meters remain.
+||||||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||||||Player 1 uses drill. Player 1 wins
+||||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||Player 2 uses drill. 25 meters remain.
+||||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||||Player 1 uses drill. 15 meters remain.
+|||||||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||||||Player 2 uses drill. 5 meters remain.
+||||||||||||||||Player 1 uses pickaxe. Player 1 wins
+||||||||||||||||Player 1 uses drill. Player 1 wins
+||||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||Player 2 uses nuke. 5 meters remain.
+||||||||||||||Player 1 uses pickaxe. Player 1 wins
+||||||||||||||Player 1 uses drill. Player 1 wins
+||||||||||||||Player 1 uses nuke. Player 1 wins
+||||||||||||Player 1 uses drill. 30 meters remain.
+|||||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||||Player 2 uses drill. 20 meters remain.
+||||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||||Player 1 uses drill. 10 meters remain.
+|||||||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||||||Player 2 uses drill. Player 2 wins
+|||||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||Player 1 uses nuke. 10 meters remain.
+|||||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||||Player 2 uses drill. Player 2 wins
+|||||||||||||Player 2 uses nuke. Player 2 wins
+|||||||||||Player 2 uses drill. 35 meters remain.
+||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||Player 1 uses drill. 25 meters remain.
+|||||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||||Player 2 uses drill. 15 meters remain.
+||||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||||Player 1 uses drill. 5 meters remain.
+|||||||||||||||Player 2 uses pickaxe. Player 2 wins
+|||||||||||||||Player 2 uses drill. Player 2 wins
+|||||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||Player 1 uses nuke. 5 meters remain.
+|||||||||||||Player 2 uses pickaxe. Player 2 wins
+|||||||||||||Player 2 uses drill. Player 2 wins
+|||||||||||||Player 2 uses nuke. Player 2 wins
+|||||||||||Player 2 uses nuke. 15 meters remain.
+||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||||||Player 1 uses nuke. Player 1 wins
+||||||||||Player 1 uses drill. 40 meters remain.
+|||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||Player 2 uses drill. 30 meters remain.
+||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||Player 1 uses drill. 20 meters remain.
+|||||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||||Player 2 uses drill. 10 meters remain.
+||||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||||Player 1 uses drill. Player 1 wins
+||||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||Player 2 uses nuke. 10 meters remain.
+||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||Player 1 uses drill. Player 1 wins
+||||||||||||Player 1 uses nuke. Player 1 wins
+||||||||||Player 1 uses nuke. 20 meters remain.
+|||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||||||Player 2 uses nuke. Player 2 wins
+|||||||||Player 2 uses drill. 45 meters remain.
+||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||Player 1 uses drill. 35 meters remain.
+|||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||Player 2 uses drill. 25 meters remain.
+||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||Player 1 uses drill. 15 meters remain.
+|||||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||Player 2 uses nuke. 5 meters remain.
+||||||||||||Player 1 uses pickaxe. Player 1 wins
+||||||||||||Player 1 uses drill. Player 1 wins
+||||||||||||Player 1 uses nuke. Player 1 wins
+||||||||||Player 1 uses nuke. 15 meters remain.
+|||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||||||Player 2 uses nuke. Player 2 wins
+|||||||||Player 2 uses nuke. 25 meters remain.
+||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||||Player 1 uses nuke. Player 1 wins
+||||||||Player 1 uses drill. 50 meters remain.
+|||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||Player 2 uses drill. 40 meters remain.
+||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||Player 1 uses drill. 30 meters remain.
+|||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||Player 2 uses drill. 20 meters remain.
+||||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||Player 1 uses nuke. 10 meters remain.
+|||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||Player 2 uses drill. Player 2 wins
+|||||||||||Player 2 uses nuke. Player 2 wins
+|||||||||Player 2 uses nuke. 20 meters remain.
+||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||||Player 1 uses nuke. Player 1 wins
+||||||||Player 1 uses nuke. 30 meters remain.
+|||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||||Player 2 uses nuke. Player 2 wins
+|||||||Player 2 uses drill. 55 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. 45 meters remain.
+|||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||Player 2 uses drill. 35 meters remain.
+||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||Player 1 uses drill. 25 meters remain.
+|||||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||||||Player 2 uses nuke. Player 2 wins
+||||||||||Player 1 uses nuke. 5 meters remain.
+|||||||||||Player 2 uses pickaxe. Player 2 wins
+|||||||||||Player 2 uses drill. Player 2 wins
+|||||||||||Player 2 uses nuke. Player 2 wins
+|||||||||Player 2 uses nuke. 15 meters remain.
+||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||||Player 1 uses nuke. Player 1 wins
+||||||||Player 1 uses nuke. 25 meters remain.
+|||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||||Player 2 uses nuke. Player 2 wins
+|||||||Player 2 uses nuke. 35 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||Player 1 uses nuke. 5 meters remain.
+|||||||||Player 2 uses pickaxe. Player 2 wins
+|||||||||Player 2 uses drill. Player 2 wins
+|||||||||Player 2 uses nuke. Player 2 wins
+||||||Player 1 uses drill. 60 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. 50 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. 40 meters remain.
+|||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||Player 2 uses drill. 30 meters remain.
+||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||||Player 1 uses nuke. Player 1 wins
+|||||||||Player 2 uses nuke. 10 meters remain.
+||||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||||Player 1 uses drill. Player 1 wins
+||||||||||Player 1 uses nuke. Player 1 wins
+||||||||Player 1 uses nuke. 20 meters remain.
+|||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||||Player 2 uses nuke. Player 2 wins
+|||||||Player 2 uses nuke. 30 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||Player 1 uses nuke. Player 1 wins
+||||||Player 1 uses nuke. 40 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||Player 2 uses nuke. 10 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. Player 1 wins
+||||||||Player 1 uses nuke. Player 1 wins
+|||||Player 2 uses drill. 65 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. 55 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. 45 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. 35 meters remain.
+|||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||||Player 2 uses nuke. 5 meters remain.
+||||||||||Player 1 uses pickaxe. Player 1 wins
+||||||||||Player 1 uses drill. Player 1 wins
+||||||||||Player 1 uses nuke. Player 1 wins
+||||||||Player 1 uses nuke. 15 meters remain.
+|||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||||Player 2 uses nuke. Player 2 wins
+|||||||Player 2 uses nuke. 25 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||Player 1 uses nuke. Player 1 wins
+||||||Player 1 uses nuke. 35 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||Player 2 uses nuke. 5 meters remain.
+||||||||Player 1 uses pickaxe. Player 1 wins
+||||||||Player 1 uses drill. Player 1 wins
+||||||||Player 1 uses nuke. Player 1 wins
+|||||Player 2 uses nuke. 45 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. But this same scenario has happened already.
+||||||Player 1 uses nuke. 15 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||Player 2 uses nuke. Player 2 wins
+||||Player 1 uses drill. 70 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. 60 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. 50 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. 40 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||Player 1 uses nuke. 10 meters remain.
+|||||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||||Player 2 uses drill. Player 2 wins
+|||||||||Player 2 uses nuke. Player 2 wins
+|||||||Player 2 uses nuke. 20 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||Player 1 uses nuke. Player 1 wins
+||||||Player 1 uses nuke. 30 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||Player 2 uses nuke. Player 2 wins
+|||||Player 2 uses nuke. 40 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. But this same scenario has happened already.
+||||||Player 1 uses nuke. 10 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. Player 2 wins
+|||||||Player 2 uses nuke. Player 2 wins
+||||Player 1 uses nuke. 50 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. But this same scenario has happened already.
+|||||Player 2 uses nuke. 20 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. But this same scenario has happened already.
+||||||Player 1 uses nuke. Player 1 wins
+|||Player 2 uses drill. 75 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. 65 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. 55 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. 45 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||Player 2 uses nuke. 15 meters remain.
+||||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||||Player 1 uses drill. But this same scenario has happened already.
+||||||||Player 1 uses nuke. Player 1 wins
+||||||Player 1 uses nuke. 25 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||Player 2 uses nuke. Player 2 wins
+|||||Player 2 uses nuke. 35 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. But this same scenario has happened already.
+||||||Player 1 uses nuke. 5 meters remain.
+|||||||Player 2 uses pickaxe. Player 2 wins
+|||||||Player 2 uses drill. Player 2 wins
+|||||||Player 2 uses nuke. Player 2 wins
+||||Player 1 uses nuke. 45 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. But this same scenario has happened already.
+|||||Player 2 uses nuke. 15 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. But this same scenario has happened already.
+||||||Player 1 uses nuke. Player 1 wins
+|||Player 2 uses nuke. 55 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. But this same scenario has happened already.
+||||Player 1 uses nuke. 25 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. But this same scenario has happened already.
+|||||Player 2 uses nuke. Player 2 wins
+||Player 1 uses drill. 80 meters remain.
+|||Player 2 uses pickaxe. But this same scenario has happened already.
+|||Player 2 uses drill. 70 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. 60 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. 50 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. But this same scenario has happened already.
+||||||Player 1 uses nuke. 20 meters remain.
+|||||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||||Player 2 uses drill. But this same scenario has happened already.
+|||||||Player 2 uses nuke. Player 2 wins
+|||||Player 2 uses nuke. 30 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. But this same scenario has happened already.
+||||||Player 1 uses nuke. Player 1 wins
+||||Player 1 uses nuke. 40 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. But this same scenario has happened already.
+|||||Player 2 uses nuke. 10 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. Player 1 wins
+||||||Player 1 uses nuke. Player 1 wins
+|||Player 2 uses nuke. 50 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. But this same scenario has happened already.
+||||Player 1 uses nuke. 20 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. But this same scenario has happened already.
+|||||Player 2 uses nuke. Player 2 wins
+||Player 1 uses nuke. 60 meters remain.
+|||Player 2 uses pickaxe. But this same scenario has happened already.
+|||Player 2 uses drill. But this same scenario has happened already.
+|||Player 2 uses nuke. 30 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. But this same scenario has happened already.
+||||Player 1 uses nuke. Player 1 wins
+|Player 2 uses drill. 85 meters remain.
+||Player 1 uses pickaxe. But this same scenario has happened already.
+||Player 1 uses drill. 75 meters remain.
+|||Player 2 uses pickaxe. But this same scenario has happened already.
+|||Player 2 uses drill. 65 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. 55 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. But this same scenario has happened already.
+|||||Player 2 uses nuke. 25 meters remain.
+||||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||||Player 1 uses drill. But this same scenario has happened already.
+||||||Player 1 uses nuke. Player 1 wins
+||||Player 1 uses nuke. 35 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. But this same scenario has happened already.
+|||||Player 2 uses nuke. 5 meters remain.
+||||||Player 1 uses pickaxe. Player 1 wins
+||||||Player 1 uses drill. Player 1 wins
+||||||Player 1 uses nuke. Player 1 wins
+|||Player 2 uses nuke. 45 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. But this same scenario has happened already.
+||||Player 1 uses nuke. 15 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. But this same scenario has happened already.
+|||||Player 2 uses nuke. Player 2 wins
+||Player 1 uses nuke. 55 meters remain.
+|||Player 2 uses pickaxe. But this same scenario has happened already.
+|||Player 2 uses drill. But this same scenario has happened already.
+|||Player 2 uses nuke. 25 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. But this same scenario has happened already.
+||||Player 1 uses nuke. Player 1 wins
+|Player 2 uses nuke. 65 meters remain.
+||Player 1 uses pickaxe. But this same scenario has happened already.
+||Player 1 uses drill. But this same scenario has happened already.
+||Player 1 uses nuke. 35 meters remain.
+|||Player 2 uses pickaxe. But this same scenario has happened already.
+|||Player 2 uses drill. But this same scenario has happened already.
+|||Player 2 uses nuke. 5 meters remain.
+||||Player 1 uses pickaxe. Player 1 wins
+||||Player 1 uses drill. Player 1 wins
+||||Player 1 uses nuke. Player 1 wins
+Player 1 uses drill. 90 meters remain.
+|Player 2 uses pickaxe. But this same scenario has happened already.
+|Player 2 uses drill. 80 meters remain.
+||Player 1 uses pickaxe. But this same scenario has happened already.
+||Player 1 uses drill. 70 meters remain.
+|||Player 2 uses pickaxe. But this same scenario has happened already.
+|||Player 2 uses drill. 60 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. But this same scenario has happened already.
+||||Player 1 uses nuke. 30 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. But this same scenario has happened already.
+|||||Player 2 uses nuke. Player 2 wins
+|||Player 2 uses nuke. 40 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. But this same scenario has happened already.
+||||Player 1 uses nuke. 10 meters remain.
+|||||Player 2 uses pickaxe. But this same scenario has happened already.
+|||||Player 2 uses drill. Player 2 wins
+|||||Player 2 uses nuke. Player 2 wins
+||Player 1 uses nuke. 50 meters remain.
+|||Player 2 uses pickaxe. But this same scenario has happened already.
+|||Player 2 uses drill. But this same scenario has happened already.
+|||Player 2 uses nuke. 20 meters remain.
+||||Player 1 uses pickaxe. But this same scenario has happened already.
+||||Player 1 uses drill. But this same scenario has happened already.
+||||Player 1 uses nuke. Player 1 wins
+|Player 2 uses nuke. 60 meters remain.
+||Player 1 uses pickaxe. But this same scenario has happened already.
+||Player 1 uses drill. But this same scenario has happened already.
+||Player 1 uses nuke. 30 meters remain.
+|||Player 2 uses pickaxe. But this same scenario has happened already.
+|||Player 2 uses drill. But this same scenario has happened already.
+|||Player 2 uses nuke. Player 2 wins
+Player 1 uses nuke. 70 meters remain.
+|Player 2 uses pickaxe. But this same scenario has happened already.
+|Player 2 uses drill. But this same scenario has happened already.
+|Player 2 uses nuke. 40 meters remain.
+||Player 1 uses pickaxe. But this same scenario has happened already.
+||Player 1 uses drill. But this same scenario has happened already.
+||Player 1 uses nuke. 10 meters remain.
+|||Player 2 uses pickaxe. But this same scenario has happened already.
+|||Player 2 uses drill. Player 2 wins
+|||Player 2 uses nuke. Player 2 wins
